@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "travelnepalbot-ykwt",
+  "private_key_id": "95acac08b6da1d413642533e0634cb634b6b72f8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDV4gggBIfyAJpH\nL32ndXTN4kkUK29ryKjYtVIOCNSaYowwuZrOUtTfHs+dS2H/Rv8BGBoO6G3at+wX\nkzFa27BVUFVffXrzecG929OBaiq0tlurjOqIPvGkIoClQdFsAxmAJZO8MjlOxxS5\nx3k5QlwaDSCpfKuUrq4e5LtgRu+N8Kr/58PUUS2iZP1pHAw/chMEOlWbDa4xOIx+\nwcjYmNSt3XrYoQY+7QSSdD3sW+bQUHbatW2JOo1cJ3IpRjGqpKjXEjU7ZVWGkkAQ\nZcujx9babARNx4K/eWVKGvzgIj25lWbgaKmRR6ixgLrMlGNRsoot9ITwPdBNcQ2+\nGlYsNBXNAgMBAAECggEABDOqFDLylsMDROW+crVAg7Dv3ZkS2cu54XQCdisfPh80\ngNqMm4QOEYoR6xWpibHT3aojDOrtCZB2b2ohXJcXSj3HR5Z3/WOFdlzktVSoHR++\nAktE6kNOTPqui1CVNCmFbTqPwfE8pfsMQbAVBhZzJ8HdQ+cimcuquQmmUrhiCWhJ\nQ9FaUQg6JypnD8/EMo9FlgV1o+YgJTcoqoQxz9SWN9gxMZy4TmGgMIjUCH81Lh2l\ngB+09Y7eRPQ5GTHe3U4zR7Rw+e1Wo7IoMJ4YfGQRmBp0xieA+Xaq+jCVw4KEtRqF\nRNTMSS6MkDImHd2pBUrVYFRboMYt8vZyNKqxnJQbYQKBgQD7qNRXF+A8jrorHNao\nd+uaMNhF+IAK5gqSQC+Qrn78y8Xxdt5EgGYrf8T7MHxcGSfStex/MSJiGkfZEZn2\nQ7F8RKOOvrqGmlaExWpsj9XHAe1s/TZ0Azvp8Tmx7EfmTArSm7NSs30sP6K7UMn/\n3SoBmHLZ1InWvR1iHYMJqcAvXQKBgQDZkmeayg18x5oS+eNcwV4UWxQvYJYt0Fap\nrnGLkhyeCS5LrrofrHJBIZf7yNlXv9exNooVKeZLs+gjMx5AiW9UW5vy3aLXd0Jq\nT/7Ul5A88m61ao8LKaul7RlfnM53tt23sMMJIDwSUVDDVULOPS/R0oCVTz1TTzqu\n4rk+iXfJMQKBgQCWqyS+JABPoVAaocBuyqVXAmlpsvbOD55Co4UWxTIoHcQb5gP6\n1TjWUD/Z99Rsu27ZO6wlFoC0ZXGgp2YbR7oKYXne65f3II4uHZey+YaPCDti5lLk\nsE79qDvXp1QAsIRGRYveNrH5fPvr09msg3gzzlbszc/crgrahDrA3U2/zQKBgBCm\nImV25rdQstqW4q4bYe6e1ZmWg4d39NnBLpEmmigBvdguw7FeydNwFag/w1nypTe7\nW6+o6CWM28utwrffjHRhGjroeOiSCLQH8RElk/UF/DDHubB5/NeSoClv32DLzoWa\n8iHFpLMmI87+vED576nXuN00FhZE7tGpKdG+RTtRAoGABHGZ3SC5/2hF3TKjvu6W\nU+QG0eJ/CVA9V/UEOiE9/AbHP404dbVRjS5kMRUeGOMRUSnv6bGOJFMjjWaLlCzu\n/93RJ/BKe4jVWVZmoEWGZg4uzVRA32H3CljpjtzWa0EB8S68CerSvd36PsQpsVbN\nPawjmpLIn7ANKeBho7kshlc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "newchatbot@travelnepalbot-ykwt.iam.gserviceaccount.com",
+  "client_id": "105337057442095125485",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/newchatbot%40travelnepalbot-ykwt.iam.gserviceaccount.com"
+}

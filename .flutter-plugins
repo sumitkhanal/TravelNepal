@@ -1,0 +1,21 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.14.0+2\\
+cloud_firestore_web=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore_web-0.2.0+1\\
+file_picker=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\file_picker-1.13.3\\
+file_picker_web=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\file_picker_web-1.0.2+1\\
+firebase_auth=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth-0.18.0+1\\
+firebase_auth_web=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_auth_web-0.3.0+1\\
+firebase_core=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.5.0\\
+firebase_core_web=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-0.2.0\\
+firebase_storage=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_storage-4.0.0\\
+flutter_plugin_android_lifecycle=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_plugin_android_lifecycle-1.0.8\\
+geolocator=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geolocator-6.2.1\\
+geolocator_web=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\geolocator_web-1.0.1\\
+google_maps_flutter=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\google_maps_flutter-1.2.0\\
+image_picker=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\image_picker-0.6.7+7\\
+razorpay_flutter=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\razorpay_flutter-1.2.6\\
+url_launcher=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher-5.7.10\\
+url_launcher_linux=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher_linux-0.0.1+4\\
+url_launcher_macos=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher_macos-0.0.1+9\\
+url_launcher_web=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher_web-0.1.5+3\\
+url_launcher_windows=C:\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\url_launcher_windows-0.0.1+3\\
