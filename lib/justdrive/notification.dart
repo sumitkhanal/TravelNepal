@@ -69,7 +69,7 @@ class _DateTimeDialogState extends State<DateTimeDialog> {
       children: <Widget>[
         Text(
           'Select time',
-          style: Theme.of(context).textTheme.title,
+          style: Theme.of(context).textTheme.titleLarge,
         ),
         const SizedBox(height: 16),
         Row(
